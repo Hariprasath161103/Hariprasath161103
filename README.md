@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">- ✨ Creating bugs since 2019<br><br>- 🔭 I’m currently working on MERN stack<br><br>- 👯 I’m looking to collaborate on MERN Stack<br><br>- 📫 How to reach me hariprasath@gmail.com</p>
+<p align="left">- ✨ Creating bugs since 2019<br><br>- 🔭 I’m currently working on MERN stack<br><br>- 👯 I’m looking to collaborate on MERN Stack<br><br>- 📫 How to reach me hariprasaths019@gmail.com</p>
 
 ###
 
